@@ -1,0 +1,12 @@
+@import "_normolize.css";
+@import "_fonts.css";
+@import "_global.css";
+@import "_overall.css";
+@import "_variables.css";
+@import "_vendor.css";
+
+/* components */
+
+@import "./component/header.css";
+@import "./component/first.css";
+@import "./component/become.css";

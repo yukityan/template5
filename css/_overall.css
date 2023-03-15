@@ -1,0 +1,31 @@
+.container {
+  max-width: 1569px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+.site-container {
+  overflow: hidden;
+}
+
+.flex {
+  display: flex;
+}
+
+.btn-rst {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+.section-title {
+  font-size: 64px;
+  line-height: 80px;
+  color: #1c2e3d;
+}
+
+.section-title--center{
+    text-align: center;
+    max-width: none;
+}
